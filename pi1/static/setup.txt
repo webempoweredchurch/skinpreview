@@ -1,0 +1,4 @@
+plugin.tx_skinpreview_pi1 {
+	config {}
+	content {}
+}

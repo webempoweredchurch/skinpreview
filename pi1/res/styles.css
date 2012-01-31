@@ -1,0 +1,46 @@
+body {
+	margin-top: 36px;
+}
+
+.skinSelectorWrapper {
+	padding: 5px 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 9999;
+
+	color: #e6e6e6;
+	background-color: rgb(51, 51, 51);
+	background-color: rgba(51, 51, 51, 0.9);
+	
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+/*
+	-webkit-box-shadow: 2px 2px 3px rgba(135, 139, 144, 0.4);
+	-moz-box-shadow: 2px 2px 3px rgba(135, 139, 144, 0.4);
+	box-shadow: 2px 2px 3px rgba(135, 139, 144, 0.4);
+*/
+}
+
+.skinSelector {
+}
+
+.skinSelector .wecLogo {
+	display: inline-block;
+	float: right;
+	padding-right: 50px;
+}
+
+.skinSelector form {
+	display: inline-block;
+	float: left;
+	padding: 0 0 0 50px;
+	margin: 0;
+}
+
+.skinSelector form label {
+	display: inline;
+	padding-right: 5px;
+}
