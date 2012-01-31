@@ -1,2 +1,2 @@
-
-Feel free to add some documentation or simply add a link to the online manual.
+Select and display TemplaVoila Framework skins in the frontend. See
+http://demo.webempoweredchurch.org for an example.
